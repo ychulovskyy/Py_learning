@@ -25,21 +25,3 @@ with open('pb.csv','r') as fl:
         if dict.get('number') in lst_U:
             print('Name:',dict.get('f_name'),dict.get('l_name'),'     Phone number:',dict.get('number'))
 if lst_U==[]: print('Nothing')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#print(lst_U)
-
-
-#        print('Name:',l_fname,l_lname,'     Phone number:',l_number)
