@@ -1,7 +1,8 @@
+import csv
+
 nmr = 'boB'
 lst_U = []
 dict = {}
-import csv
 
 with open('pb.csv', 'r') as fl:
     rds = csv.DictReader(fl)
