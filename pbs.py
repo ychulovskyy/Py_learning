@@ -1,4 +1,4 @@
-nmr='boB'
+nmr='boBb'
 lst_U=[]
 dict={}
 import csv
