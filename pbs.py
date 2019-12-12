@@ -1,3 +1,9 @@
+#<<<<<<< refactoring
+#=======
+nmr='boBb'
+lst_U=[]
+dict={}
+#>>>>>>> mainbranch
 import csv
 
 nmr = 'boB'
